@@ -1,7 +1,7 @@
 if(process.env.NODE_ENV !== 'production'){
     require('dotenv').parse()
 }
-//testing routes on sale
+/
 const express = require('express')
 const app = express()
 const expressLayouts = require('express-ejs-layouts')

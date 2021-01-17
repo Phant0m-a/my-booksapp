@@ -9,4 +9,3 @@ router.get('/secret', (req,res) =>{
 })
 
 module.exports = router
-// test
